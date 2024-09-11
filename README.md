@@ -13,7 +13,9 @@ This document outlines the steps to verify the correctness and reliability of th
 - **Create a New Student**: Confirm that new student entries can be created with valid data.
 - **Update Students Technical Skills and Address Details**: Validate that student information can be updated correctly.
 - **Delete a Student**: Test if student records can be deleted.
-
+### API Doucumentation
+The complete documentation is available on Wiki 
+  - [Student Database API - Testing Documentation](https://github.com/saifulcs40/Rest-Student-Database-API/wiki)
 ## Testing Tools
 
 - **Postman**: For manual testing and request validation.
@@ -171,5 +173,4 @@ For automating the execution of test cases, you can use Newman to run the Postma
       ```
 ---
 
-### Test Result Presentation
 
